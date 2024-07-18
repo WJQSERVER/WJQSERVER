@@ -1,21 +1,8 @@
-## Hi there 👋
+## Hi there 👋 This is WJQSERVER
+
+[![Blog](https://img.shields.io/badge/Blog-444.svg)](https://blog.wjqserver.com)
+[![Github](https://img.shields.io/github/followers/tbxark?label=Follow&style=social)](https://github.com/WJQSERVER)
+[![Github组织](https://img.shields.io/github/followers/tbxark?label=Follow&style=social)](https://github.com/WJQSERVER-STUDIO)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WJQSERVER&count_private=true&theme=aura&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WJQSERVER&theme=aura&layout=compact&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
 
-## 相关网页
-[WJQ的博客](https://wjqserver.com)
-
-<!--
-**WJQSERVER/WJQSERVER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
